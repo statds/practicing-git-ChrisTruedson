@@ -1,4 +1,4 @@
-Git and GitHub learning resources
+Git and GitHub learning resources :)
 
 There are a lot of helpful Git and GitHub resources on the web. This is a short list of our favorites!
 
