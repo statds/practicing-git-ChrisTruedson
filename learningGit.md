@@ -12,7 +12,7 @@ Become better acquainted with GitHub through our getting started articles. See o
 
 You can connect with developers around the world to ask and answer questions, learn, and interact directly with GitHub staff. To get the conversation started, see "GitHub Community Support."
 
-##### Branches, forks, and pull requests
+##### Branches, forks, and pull requests ----->
 Learn about Git branching using an interactive tool. Read about forks and pull requests as well as how we use pull requests at GitHub. Access references about using GitHub from the command line.
 
 ##### Training
@@ -26,8 +26,6 @@ GitHub offers live trainings with a hands-on, project-based approach for those w
 GitHub offers in-person classes taught by our highly-experienced educators. Contact us to ask your training-related questions.
 
 Extend your GitHub reach through integrations, or by installing GitHub Desktop and the robust Visual Studio Code text editor.
-
-Learn how to launch and grow your open source project with the Open Source Guides.
 
 Added on Github
 
